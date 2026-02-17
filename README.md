@@ -1,5 +1,5 @@
 
-  # Legal Intelligence Website Design
+  # Legal Intelligence Website Prototype 
 
   ## Running the code
 
